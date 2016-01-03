@@ -1,7 +1,6 @@
 [
 	{
-		"module" : "who.py",
+		"module" : "who",
 		"when" : "* * 30"
-	},
-	{}
+	}
 ]
