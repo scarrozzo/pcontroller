@@ -1,6 +1,6 @@
 [
 	{
 		"module" : "bash_who",
-		"when" : "* * 30"
+		"when" : "30"
 	}
 ]
