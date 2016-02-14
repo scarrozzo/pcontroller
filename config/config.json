@@ -1,5 +1,11 @@
 [
 	{
 		"module" : "bash_who"
+	},
+	{
+		"module" : "bash_ls"
+	},
+	{
+		"module" : "bash_ps"
 	}
 ]
