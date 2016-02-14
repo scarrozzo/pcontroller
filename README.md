@@ -70,8 +70,9 @@ It allows you to run scheduled jobs on a remote server via github. Once launched
       	}
       ]
 
-      It will run the bash_who.py module every 30 seconds.
-      WARNING: The module must have been previously created! (See point 1)
+   It will run the bash_who.py module every 30 seconds.
+   
+   WARNING: The module must have been previously created! (See point 1)
       
   2.2) Push the updates on your repository
   
