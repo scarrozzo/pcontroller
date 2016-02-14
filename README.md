@@ -77,4 +77,4 @@ It allows you to run scheduled jobs on a remote server via github. Once launched
   
   2.3) The tool will run the module at the appointed time and will save the results in the data/ folder without any need to relaunch it.
   
-References: "Black Hat Python: Python Programming for Hackers and Pentesters"
+#### References: "Black Hat Python: Python Programming for Hackers and Pentesters"
