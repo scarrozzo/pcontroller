@@ -2,7 +2,7 @@
 
 ### Description: 
 
-A python useful tool for system administrators and malicious persons :).
+A python useful tool for system administrators and malicious people :).
 
 It allows you to run scheduled jobs on a remote server via github. Once launched on the remote server, it continuously retrieves python modules to be run together with the scheduling of them from a github repository and executes them at run-time without having to re-launch the tool.
 
