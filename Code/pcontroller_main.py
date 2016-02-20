@@ -25,6 +25,7 @@ gitConnection.import_modules(pcontroller_constants.PCONFIG);
 cmd = gitConnection.get_cmd(pcontroller_constants.PCOMMANDS);
 
 while True:
+	cmd = gitConnection.get_cmd(pcontroller_constants.PCOMMANDS);
 	for command in cmd:
 		if "module" in command and "when" in command:
 			if not command["module"] in jobs:
