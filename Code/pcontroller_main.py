@@ -29,7 +29,7 @@ sys.meta_path = [GitImporter()];
 while True:
 	gitConnection = get_GitConnection();
 	cmd = gitConnection.get_cmd(pcontroller_constants.PCOMMANDS);
-	print cmd
+	#print cmd
 	for command in cmd:
 		if "module" in command and "when" in command:
 			if not command["module"] in jobs:
