@@ -2,5 +2,9 @@
 	{
 		"module" : "bash_who",
 		"when" : "30"
+	},
+	{
+		"module" : "bash_ls",
+		"when" : "30"
 	}
 ]
